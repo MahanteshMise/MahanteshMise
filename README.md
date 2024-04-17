@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MahanteshMise
-- 👀 I’m interested in Embedded Systems, Network Software Engineering roles
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in FullStack, Embedded Systems, Network Software Engineering roles
 - 💞️ I’m looking to collaborate on many open source projects.
 - 📫 Reach me on mahanteshmise1994@gmail.com
 
